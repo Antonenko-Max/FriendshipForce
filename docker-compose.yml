@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+
+  postgresql:
+    image: postgres:14
+    container_name: postgres
+    hostname: postgres
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=sd_crm
+      - ALLOW_IP_RANGE='0.0.0.0/0'
+    volumes:
+      - ./pgdata/pg_hba.conf:/etc/postgresql/pg_hba.conf
+      - ./pgdata/data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - common-net 
+
+networks:
+  common-net:
+    driver: bridge

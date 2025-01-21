@@ -16,20 +16,20 @@ namespace Sd.Crm.Backend.DataLayer.Configuration
             builder.Property(_ => _.Sex).HasMaxLength(10);
             builder.HasOne(_ => _.Project)
                 .WithMany()
-                .HasForeignKey("ProjectId")
+                .HasForeignKey("project_id")
                 .OnDelete(DeleteBehavior.Restrict);
             builder.HasOne(_ => _.Level)
                 .WithMany()
-                .HasForeignKey("LevelId")
+                .HasForeignKey("level_id")
                 .OnDelete(DeleteBehavior.Restrict);
             builder.Property(_ => _.FirstTrainingDate).HasMaxLength(10);
             builder.HasOne(_ => _.Mother)
                 .WithMany()
-                .HasForeignKey("MotherId")
+                .HasForeignKey("mother_id")
                 .OnDelete(DeleteBehavior.Restrict);
             builder.HasOne(_ => _.Father)
                 .WithMany()
-                .HasForeignKey("FatherId")
+                .HasForeignKey("father_id")
                 .OnDelete(DeleteBehavior.SetNull);
         }
     }

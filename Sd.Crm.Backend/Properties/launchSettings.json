@@ -7,9 +7,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_HOST": "localhost",
-        "DATABASE_PASSWORD": "Str0ngP@ssw0rd!",
-        "DATABASE_LOGIN": "sa",
-        "DATABASE_NAME": "Sd"
+        "DATABASE_PASSWORD": "root",
+        "DATABASE_LOGIN": "postgres",
+        "DATABASE_NAME": "sd_crm"
       },
       "dotnetRunMessages": true,
       "applicationUrl": "http://localhost:5194"
@@ -21,9 +21,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_HOST": "localhost",
-        "DATABASE_PASSWORD": "Str0ngP@ssw0rd!",
-        "DATABASE_LOGIN": "sa",
-        "DATABASE_NAME": "Sd"
+        "DATABASE_PASSWORD": "root",
+        "DATABASE_LOGIN": "postgres",
+        "DATABASE_NAME": "sd_crm"
       },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7181;http://localhost:5194"
@@ -35,9 +35,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_HOST": "localhost",
-        "DATABASE_PASSWORD": "Str0ngP@ssw0rd!",
-        "DATABASE_LOGIN": "sa",
-        "DATABASE_NAME": "Sd"
+        "DATABASE_PASSWORD": "root",
+        "DATABASE_LOGIN": "postgres",
+        "DATABASE_NAME": "sd_crm"
       }
     },
     "Docker": {
@@ -47,9 +47,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DATABASE_HOST": "localhost",
-        "DATABASE_PASSWORD": "Str0ngP@ssw0rd!",
-        "DATABASE_LOGIN": "sa",
-        "DATABASE_NAME": "Sd"
+        "DATABASE_PASSWORD": "root",
+        "DATABASE_LOGIN": "postgres",
+        "DATABASE_NAME": "sd_crm"
       },
       "publishAllPorts": true,
       "useSSL": true

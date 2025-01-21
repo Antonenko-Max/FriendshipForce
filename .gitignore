@@ -162,7 +162,6 @@ $RECYCLE.BIN/
 /.idea
 /docker-compose.dcproj
 /docker-compose.override.yml
-/docker-compose.yml
 
 # Postres specific files
 pgdata/

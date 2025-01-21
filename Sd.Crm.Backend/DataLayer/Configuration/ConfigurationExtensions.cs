@@ -14,7 +14,7 @@ namespace Sd.Crm.Backend.DataLayer.Configuration
             {
                 return null;
             }
-            var conn = $"Server={host};initial catalog={database};User Id={username};Password={password};Encrypt=false";
+            var conn = $"Host={host};Database={database};Username={username};Password={password}";
             return conn;
         }
     }

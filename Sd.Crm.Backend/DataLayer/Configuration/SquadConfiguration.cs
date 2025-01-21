@@ -15,7 +15,7 @@ namespace Sd.Crm.Backend.DataLayer.Configuration
             builder.Property(_ => _.Location).HasMaxLength(50);
             builder.HasOne(_ => _.Mentor)
                 .WithMany()
-                .HasForeignKey("UserId")
+                .HasForeignKey("user_id")
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

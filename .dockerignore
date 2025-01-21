@@ -30,3 +30,6 @@ README.md
 !.git/refs/heads/**
 launchSettings.json
 appsettings.Development.json
+**/sql
+**/pgdata
+docker-compose.yml

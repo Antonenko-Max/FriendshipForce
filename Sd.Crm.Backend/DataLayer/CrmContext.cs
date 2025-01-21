@@ -24,10 +24,9 @@ namespace Sd.Crm.Backend.DataLayer
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("Main");
-            modelBuilder.Entity<UserClaim>().HasOne(e => e.User).WithMany(m => m.Claims).HasForeignKey("UserId").IsRequired();
-            modelBuilder.Entity<Training>().HasOne(e => e.Disciple).WithMany(m => m.Trainings).HasForeignKey("DiscipleId").IsRequired();
-            modelBuilder.Entity<Disciple>().HasOne(e => e.Squad).WithMany(m => m.Disciples).HasForeignKey("SquadId").IsRequired();
+            modelBuilder.Entity<UserClaim>().HasOne(e => e.User).WithMany(m => m.Claims).HasForeignKey("user_id").IsRequired();
+            modelBuilder.Entity<Training>().HasOne(e => e.Disciple).WithMany(m => m.Trainings).HasForeignKey("disciple_id").IsRequired();
+            modelBuilder.Entity<Disciple>().HasOne(e => e.Squad).WithMany(m => m.Disciples).HasForeignKey("squad_id").IsRequired();
             modelBuilder.ApplyConfiguration(new UserConfiguration());
             modelBuilder.ApplyConfiguration(new UserClaimConfiguration());
             modelBuilder.ApplyConfiguration(new SdProjectConfiguration());
