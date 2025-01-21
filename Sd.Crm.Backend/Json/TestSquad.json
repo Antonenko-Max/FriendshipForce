@@ -1,0 +1,3587 @@
+{
+    "id": "8bf5d3f3-3870-4210-acc0-d80a260b9a10",
+    "mentor": null,
+    "name": null,
+    "disciples": [
+        {
+            "id": "6df2fed5-2f8c-4f0e-89ea-e3b1d80251c9",
+            "firstName": "Александр",
+            "lastName": "Шалунов",
+            "dateOfBirth": "2014-06-01T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "1710bbc3-8601-459c-a394-b684a9efeb46",
+                "name": "Отважный"
+            },
+            "firstTrainingDate": "04.09.2022",
+            "status": "Active",
+            "mother": {
+                "id": "09969d6d-bb97-4be7-9b05-827b0111483a",
+                "name": "Елена Шалунова",
+                "phone": "89044306124",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "391fd091-160d-4988-9fd2-e124054bcc52",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "00cab528-f55b-494b-98d3-08900914699b",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f47cde08-03a8-41ea-a30f-dfb0f45ab6ed",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a12f7421-a55e-4012-b359-2fded9685ade",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "cfeb69bd-d424-4c84-81f0-d4baed9207c2",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "51e9d196-e8a1-42a7-beb6-8360b2992393",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b02c09db-c277-43f1-9dee-f15de510db58",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "76f2a3cb-91a3-4724-86f4-e5f72230a12a",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "afed644f-b066-4aeb-8b56-d2a8e0877d35",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "990b95fc-91da-4ce5-8028-5502c206620c",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "dbe8d684-2905-4e81-985b-57d89ddc31d5",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3dcb8209-2abf-4a66-a017-394e479d2cbe",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "49babcdd-d8f1-4729-8942-5a3398f7202b",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "00af86c2-4413-4ab0-9b98-be2e00c6bf19",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "795c208e-9e54-4434-bc13-1df446daf5f1",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e5093514-9108-480e-9498-5a1651d08df2",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "cc35e500-67b1-4656-b9d2-e427f56a3d20",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6f37524a-b9ac-40d9-b7a6-a9e0601c1c12",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6b9406e2-83ba-45f4-8ab5-42cdba54f4bb",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ac92d246-4cb8-4295-9634-8cf019eb8167",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0a7466a6-846e-4e84-868d-703f87166bd4",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0aec665b-98c3-486f-b582-f5737e357506",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "961a7871-a6da-4206-b628-e40602ed8f0b",
+                    "date": "2.2.2025",
+                    "month": 2,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "8973a37d-9c25-4cbd-834c-4cfb2300a684",
+                    "date": "9.2.2025",
+                    "month": 2,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a93cc5a7-fe61-43c0-b2cb-56a188f5c1f2",
+                    "date": "16.2.2025",
+                    "month": 2,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "56316557-d78a-409f-942e-1bc0095b8100",
+                    "date": "23.2.2025",
+                    "month": 2,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "fcd4a9b1-3e31-4ee1-8060-7cc5b54af296",
+                    "date": "2.3.2025",
+                    "month": 3,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "507b4bcd-a0f5-4551-8600-2ccc99b2e603",
+                    "date": "9.3.2025",
+                    "month": 3,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4ae893c5-0701-49bd-ac7e-c4f4df4c7387",
+                    "date": "16.3.2025",
+                    "month": 3,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a7b7d2ef-58e6-41c7-b981-63199527b1c5",
+                    "date": "23.3.2025",
+                    "month": 3,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "142afe9f-f6aa-4a5e-afa1-66b372efb5b8",
+                    "date": "30.3.2025",
+                    "month": 3,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2773a176-cb10-45e5-af42-7367cadf2ad7",
+                    "date": "6.4.2025",
+                    "month": 4,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "8754679b-5789-4f47-8ad5-81e1dc488811",
+                    "date": "13.4.2025",
+                    "month": 4,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "eeb18f2b-683d-45b9-9d70-e69a302000d7",
+                    "date": "20.4.2025",
+                    "month": 4,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ee1cb7d6-5aa7-47bf-ba61-bbedbcc827ea",
+                    "date": "27.4.2025",
+                    "month": 4,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "cc81aa03-c292-495b-bb84-ead87f9cf857",
+            "firstName": "Александр",
+            "lastName": "Гончаров",
+            "dateOfBirth": "2014-10-06T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "94fdaec7-d659-4443-b5da-2fcd3ffaf8a8",
+                "name": "Искатель"
+            },
+            "firstTrainingDate": "04.09.2022",
+            "status": "Active",
+            "mother": {
+                "id": "6ec6b558-5e43-4029-8655-ae56ff95b867",
+                "name": "Алена Шамайко",
+                "phone": "89033274447",
+                "comment": ""
+            },
+            "father": {
+                "id": "7c694253-cdb4-4a86-b71a-9451f746eee2",
+                "name": "Антон Гончаров",
+                "phone": "",
+                "comment": ""
+            },
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "cd38f431-a893-4cba-81c3-8e730ccc319c",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "de2ab21e-6a14-481b-adb6-c6e58e1132b1",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ffb1b590-3e5c-4211-ad39-a36a601044d1",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d0389859-e018-4f9f-9fe3-523e1c3a6dc2",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c77178db-a79a-4e2a-a64a-ad552c940337",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "633dd150-e148-448e-a35c-ad1f9cee30c0",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a5399055-3a37-4d1d-aace-69013b06e8d4",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1a93ceea-9208-43b5-9e41-3f28f151a6c8",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5bfe95b8-cc4b-4546-ae0d-56bc96332f50",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "53e2e79b-d691-48e8-93f7-2155ca787c8c",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1eb553b3-b704-42dc-a1b4-8c678ccc2e90",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b402f60d-fbd5-4e02-93a2-eddd37e29d09",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a774e8c5-ce77-4318-a34e-9db5ad5d13d0",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4a210911-b4d2-458e-bad9-0f52ac5a5a59",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "af0b5549-3e64-405d-b863-ecd7f3790f75",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6442dba1-8572-41ef-b992-6ec62517125f",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4bc9b3f4-30f0-47d6-bd68-1304e2268d2e",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7b931b40-0289-4dc9-a23f-1beb4d552c1c",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1efdf169-45da-46f8-91c0-84e1daea9b06",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3a167c5f-ab18-4f4e-a549-74e8fdfac01c",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0eabef28-a2f3-4d67-a693-1a2b68d7a21a",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5d7b39fc-eb76-4bff-99e9-d0cbde08f111",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "22e81cae-3ad4-44a1-9b5a-eebafb797e05",
+                    "date": "2.2.2025",
+                    "month": 2,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "44094eef-f4a9-465c-84b4-691f9ee7b874",
+                    "date": "9.2.2025",
+                    "month": 2,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "91d8564b-6f1f-4604-870d-2bca9e04bdf2",
+                    "date": "16.2.2025",
+                    "month": 2,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "39d1299c-fd03-48d9-a740-4ccb20dd92d2",
+                    "date": "23.2.2025",
+                    "month": 2,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "28431daa-bf08-4cd1-80c1-13cee07f2a70",
+                    "date": "2.3.2025",
+                    "month": 3,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6fd097c4-24ba-487f-8bfa-f0fbdc7161d1",
+                    "date": "9.3.2025",
+                    "month": 3,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ec1c30a4-f138-42c2-acab-54a386791f00",
+                    "date": "16.3.2025",
+                    "month": 3,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3b88439c-1288-4990-b91f-51c19163e1b9",
+                    "date": "23.3.2025",
+                    "month": 3,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9597423a-7ab1-440b-ba72-7bdc43d8dbc5",
+                    "date": "30.3.2025",
+                    "month": 3,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b83c3273-632d-4c46-9f8e-9080b92c87bd",
+                    "date": "6.4.2025",
+                    "month": 4,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5ab8a87b-34e7-4a6c-a701-a0702d8d7c29",
+                    "date": "13.4.2025",
+                    "month": 4,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ede2e094-2339-4c2d-81d5-498f1d3356fb",
+                    "date": "20.4.2025",
+                    "month": 4,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f13fbf4b-ac2b-4898-bd90-2f9028bb414f",
+                    "date": "27.4.2025",
+                    "month": 4,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "51f7f997-ce0b-4cda-9f6b-385a282c3050",
+                    "date": "4.5.2025",
+                    "month": 5,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "346f8f28-c77e-4a12-b9cd-0c6e1ee40ff0",
+                    "date": "11.5.2025",
+                    "month": 5,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f8ec76c2-e74d-4137-adba-051953b1a0a3",
+                    "date": "18.5.2025",
+                    "month": 5,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c490953f-4760-4488-890b-f7f3fe240ba7",
+                    "date": "25.5.2025",
+                    "month": 5,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "72452e2b-1dbd-4b9d-9c35-858fdfd3d07e",
+            "firstName": "Семен",
+            "lastName": "Бухтияров",
+            "dateOfBirth": "2013-05-24T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "1e69f6c9-31bb-40c8-9e18-c55ad0a7afc4",
+                "name": "Искатель"
+            },
+            "firstTrainingDate": "04.09.2022",
+            "status": "Active",
+            "mother": {
+                "id": "0a516d71-4258-4863-a0c5-99860c584cce",
+                "name": "Елена Бухтиярова",
+                "phone": "89033701580",
+                "comment": ""
+            },
+            "father": {
+                "id": "092532e1-706f-4315-bce3-fe3780e3c52f",
+                "name": "Сергей Бухтияров",
+                "phone": "",
+                "comment": ""
+            },
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "3696d395-f1ed-4d92-8fcc-ed95be78b310",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "15543163-ff36-493b-8441-b676029df51a",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "449aa78f-397f-4a69-ba71-5d8d78c4573e",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "56bb6de3-9265-4786-8091-78799064615d",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9f6f25a6-2310-474d-bbdb-b458580b1a2d",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ce591bb6-7111-4ac3-a202-dce430b331b9",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0a7345d2-9f00-4f0d-8fe9-bc783657439e",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a201496b-4b7c-45ba-b1ef-51106a88c84f",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b1779e87-8e3b-4aef-9040-bb8aca19ece3",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "19222185-0833-4a93-b9bf-3118b4313f7c",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "972edfd5-baef-4fce-a4ce-c09f0005faa8",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5a571a56-29a6-465f-a661-3a9b71f29fac",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0fdf244e-cf9c-40e7-b679-c80c170ad49a",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e792e7f5-e914-4b11-98c6-bd19e072cb10",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9b958e38-367f-445a-a80c-72e005d4b423",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "add96d5a-73f7-42b7-a498-78b538e7ea55",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ad5b7de3-2753-479b-8fe5-70cc856552f2",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b3db94d8-59c0-47a9-987e-003a3ccd9f70",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d22d1b4c-25a6-454f-8cfe-e25acf884ca6",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0c4ec7d0-abd2-4631-a4c5-02f21cadf3d2",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3d0345a0-d113-498a-bff2-8a6ecf1426f0",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5a5e6b9b-1c40-474d-9007-e0ad0fd3f5ce",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "43f10eec-f44b-4520-bf6c-f72890db2710",
+            "firstName": "Илья",
+            "lastName": "Ерохин",
+            "dateOfBirth": "2012-11-23T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "4845c398-2204-4af4-8b2b-4aab5526259f",
+                "name": "Искатель"
+            },
+            "firstTrainingDate": "10.03.2024",
+            "status": "Active",
+            "mother": {
+                "id": "d0dd2add-58a7-4026-b4e2-0999b48cfa18",
+                "name": "Оксана Ерохина",
+                "phone": "89608834488",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "0447d3dd-5780-48dd-b73b-88363daff2ec",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "90ec27b4-86c2-4643-8cbe-97f4e5260a01",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "62384367-e70c-4e87-909a-53697dda7a50",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "47b40bcb-ca5a-4b8f-8151-b90d563baadf",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "64aa4474-0cce-4157-9826-a9740f8a2241",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5cd4ffab-3d2c-4896-abac-bf0c7ecec48e",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "18f8cf0d-2b19-4b5a-a0cb-9496a92ac68a",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "59862f31-e68b-4dd6-8b46-d0bc29339bbf",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1bb24380-1d1e-4f31-ba57-f010a394e561",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e2f680e8-9db8-433d-aa63-6107a65eb5a8",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "585feae8-795b-44fa-b076-76ae7b65a84a",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "495e9458-80b1-4de6-bb4e-92320861b157",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7ed9e76e-1693-4d39-b967-407da3f06151",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "781f8c54-4bf4-479f-a131-deaaeb6858f4",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ba153842-04f0-4c1b-a317-48769a81e013",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "43b23e1a-211c-4021-bfde-27d55ba81db3",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "cce765eb-c1ec-4860-9cf4-c2883f67243e",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9e9dcf64-2ff7-450e-b7b6-5c9b551e0f54",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "96ef3d48-bb72-45b6-a3c1-e5161bef3375",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7b96048b-22ad-4c08-afe4-858ed205814e",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a85a3955-6e4b-4091-85cd-102dfab33b18",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a642ad7c-c262-49a2-8fc1-0ac8dfb10723",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1d71887c-a31b-4d9a-9eb8-f0ce60030dd4",
+                    "date": "2.2.2025",
+                    "month": 2,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2c0a4001-b3a8-4146-8dcf-67db3e18fb83",
+                    "date": "9.2.2025",
+                    "month": 2,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "971a8a01-04d5-460c-ba80-2978f92e8ea3",
+                    "date": "16.2.2025",
+                    "month": 2,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d83ebb88-d8de-4997-8bd5-0a180d3655ca",
+                    "date": "23.2.2025",
+                    "month": 2,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0d7ded67-4e02-448c-8297-40ea2363cc67",
+                    "date": "2.3.2025",
+                    "month": 3,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a2490adb-364e-48da-83e2-7aa81f1b60fd",
+                    "date": "9.3.2025",
+                    "month": 3,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a2bfc98b-53ed-460e-8e92-94d9e16a5725",
+                    "date": "16.3.2025",
+                    "month": 3,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5d9c0809-9375-411d-a64d-f3ec6ed471b9",
+                    "date": "23.3.2025",
+                    "month": 3,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "946f84c1-d07b-4c0b-905e-765f0e71ad24",
+                    "date": "30.3.2025",
+                    "month": 3,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4b20a8bb-574a-4cda-a4a8-9ef6839000bd",
+                    "date": "6.4.2025",
+                    "month": 4,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "02af0ce4-955b-494f-aad1-e84d0d05be26",
+                    "date": "13.4.2025",
+                    "month": 4,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6d915bb2-de94-4ab5-9acd-bcd130324185",
+                    "date": "20.4.2025",
+                    "month": 4,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6ae95880-08ed-47c9-8f19-c6befd1e47ad",
+                    "date": "27.4.2025",
+                    "month": 4,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "067c37ce-69fa-4f10-9602-24f0d50ec711",
+            "firstName": "Григорий",
+            "lastName": "Лунин",
+            "dateOfBirth": "2014-06-26T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "51bebb33-46d9-43b0-9e3a-9632bf435294",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "10.03.2024",
+            "status": "Active",
+            "mother": {
+                "id": "86f5655a-5879-4d64-b374-c885720d616e",
+                "name": "Елена Лунина",
+                "phone": "89275214030",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "69edc185-e2ee-4e02-afd0-3e3a23a0bcca",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "10e47a34-8388-41b0-8187-fa52f6093cc6",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ed581268-02d6-455e-99c0-9c7de5900c33",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "448b1b91-35f7-4e14-9d18-10c94b98c77e",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5020161c-129d-451e-9df1-2bba13507a85",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "32752f8b-4cf2-4f72-b693-45100b764b20",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "97e169e2-728f-4f3a-a867-36c17d1e068f",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "03cccd2d-4386-4379-857b-d70e9337b378",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "331b6d07-ca28-47ce-a939-0ab7e10b547b",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "933029e1-829e-44f6-b4a0-4533a49ded62",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b333f76d-4896-4f12-9aba-c30c1de2c9ff",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1a33590a-c331-4979-94b5-1be356622c4c",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0423b5cb-8188-45a8-9484-f5446991f98f",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "83a7602f-2c7f-423d-b11a-0f7cfcd5f879",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "970a84fd-bc07-48e9-a9e4-9269a5b0e7ba",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "621ca20e-f2a4-469d-95ad-200f2b92efb4",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1b1ca704-899f-4acd-9cd1-ddd31b47d7dd",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e7ea0d46-edb8-4f6c-9643-2af320536b90",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b83881c8-ecd5-469e-a02b-e432ad70f1a4",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "dc621fff-d77d-4022-8a3b-49ad90e2663b",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c2a47868-518f-4ffb-b51f-7377df1347fc",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "81fc7033-1789-48b8-ae8e-39acef7f173d",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9fe83221-0f40-42c3-8c35-d7ad5dba12fe",
+                    "date": "2.2.2025",
+                    "month": 2,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "930ba048-759e-4ecd-9e66-9e6a9ae28aec",
+                    "date": "9.2.2025",
+                    "month": 2,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c9754c92-7a4a-4c48-8d78-3f29733b0861",
+                    "date": "16.2.2025",
+                    "month": 2,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f3051343-fc6d-42f7-9790-ed3805a0eda1",
+                    "date": "23.2.2025",
+                    "month": 2,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5ca77d64-28e9-4f51-b8e4-26ee7da12237",
+                    "date": "2.3.2025",
+                    "month": 3,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "db452a05-5a9d-4777-9c23-4dbe02d0b0f8",
+                    "date": "9.3.2025",
+                    "month": 3,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "457d05ed-a6b0-48b5-a13d-eb4db53330f9",
+                    "date": "16.3.2025",
+                    "month": 3,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5572a664-e31f-4429-867e-085cd1864a35",
+                    "date": "23.3.2025",
+                    "month": 3,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e55b3a18-b68b-4a60-95fb-1453d8d5343f",
+                    "date": "30.3.2025",
+                    "month": 3,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "48bb43a5-6a68-4366-adf9-aed8a3ba4f60",
+                    "date": "6.4.2025",
+                    "month": 4,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "be6a1c33-96e3-4c0e-a8d8-60f9c884022b",
+                    "date": "13.4.2025",
+                    "month": 4,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0fc5670b-146d-4991-9757-597dc4e88514",
+                    "date": "20.4.2025",
+                    "month": 4,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3cfaaeca-cc22-49fc-8b63-c7e7681d7460",
+                    "date": "27.4.2025",
+                    "month": 4,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "39e42dd6-4d30-4225-a5cc-6f0d424bca5d",
+            "firstName": "Георгий",
+            "lastName": "Никитин",
+            "dateOfBirth": "2017-07-14T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "e8c1fca8-6dee-4c88-a30d-6d2ae01b5b57",
+                "name": "Отважный"
+            },
+            "firstTrainingDate": "12.05.2024",
+            "status": "Active",
+            "mother": {
+                "id": "de28215f-9b14-4142-8f69-9c0e4c4dc6b1",
+                "name": "Наталья Никитина",
+                "phone": "89033713773",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "30dd4a16-7f8f-41e2-ac34-22d620ddd020",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a1a4f1d1-b68f-4baa-b4da-7c7fff8b61ad",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7583511a-9d97-4b23-8450-48299dce7fa6",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b45ac0e2-8983-4bbf-ab47-bac44e2e3eb9",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c9ccebde-f807-4e9b-8929-6ef8d44192da",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6a4494d4-d30c-4ac0-a92d-0fa236628472",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "aa2ba6cd-ccb3-415a-91fd-b9dc0709b557",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0d0a63a8-afd2-46ef-98cd-ac91c6783bec",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f1467eda-f7ce-47b2-a6aa-b53a5e4b9e1d",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "76cc5056-3d5e-4cc8-b24d-6c53b5fa047b",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e9235700-acb1-4168-a6f7-8048eb3021fa",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1104f123-d746-4aad-91ed-203b420ace8d",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2b55594d-2c00-45cf-b58e-ff281fce6e5c",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "018d9c0e-ef2c-4012-8a07-e521ab30a88c",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9ceed383-e591-4f15-bc52-bbdabc8ec0f1",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "195b2dcc-9036-48b8-b57b-6bad73bbae20",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "12bd93d7-35de-41ee-876d-f398c0ee417e",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1f4ceaeb-0d70-4a03-8701-3b874513eb53",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e81dc205-9913-4079-8dae-99afaac97b86",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b9af25b6-e40a-4997-95e3-afa8cb696a00",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6a275c77-7b07-4321-b41f-cd34ed67dbb2",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "12648eb1-2228-4a75-938e-fb19b217195c",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "b5db761a-cced-4370-a4a3-795002c8a8d6",
+            "firstName": "Олег",
+            "lastName": "Акопов",
+            "dateOfBirth": "2015-01-01T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "37f98a3d-1e5d-435e-9b3a-80cd2df545ce",
+                "name": "Отважный"
+            },
+            "firstTrainingDate": "15.09.2024",
+            "status": "Active",
+            "mother": {
+                "id": "ca6dc801-90c7-4dd4-85e9-c70d93cf91f9",
+                "name": "Лиана Акопова",
+                "phone": "89199881016",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "111722fc-7bd7-4687-8cda-f85995d61223",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "49799e54-23a3-45e0-b0bd-55825dc05dfc",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "753fe542-f1dd-4091-9185-2ed64051dab0",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "66331618-4279-4775-ad56-6f664e981dc5",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "fef9c2f9-26ee-496c-b438-b2f62ee145f4",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6b85ff2c-9641-44a7-9b18-2162362907c6",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "fd52ad42-f12e-478e-85a1-80f36c9d35a6",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9bc755a4-0e08-4740-9735-dac4eda6dfbf",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "78ac2f12-0f41-4daa-a78b-274014578c6e",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6ffedc5b-789f-4c8a-b616-25b6bbea5ab0",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d7c2ce37-6494-4fd9-9bc6-3f84f11b84f7",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a640ff80-7612-4cf6-9f04-312e41d74091",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "86a211d8-7cff-49a0-a42a-f4d9934e1499",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9abea73f-fee0-4d72-beb0-c9ca2401a04c",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0bd4fd26-070d-4788-892b-b54c7368aa35",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7e0a40a8-5088-46b4-8201-ebfe63259682",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b85d7c03-5ca1-4e37-9ff7-6d3a2a96ca0c",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ac65ce91-3849-4c04-9709-4bdba6386b00",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a3bb40bb-ee43-45d8-905e-e25146ba4ef5",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1834cb6f-8b5c-4ed7-a069-783b39661eca",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "fd0d0dbd-114d-49d1-900d-888a0c75a2d6",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e2bfb137-a79f-451e-a2e0-f58103f0bb9d",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "0677287b-82b4-44ec-8e1e-03f688927a35",
+            "firstName": "Илья",
+            "lastName": "Сухоруков",
+            "dateOfBirth": "2014-09-10T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "16669dae-ecaa-468d-8ae3-eec528388df7",
+                "name": "Искатель"
+            },
+            "firstTrainingDate": "13.10.2024",
+            "status": "Active",
+            "mother": {
+                "id": "22b3abc0-cd26-4504-a70e-99c589f14e86",
+                "name": "Анна Сухорукова",
+                "phone": "89608740288",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "546d79f1-b736-4282-83aa-4300afd37f64",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5145459e-fa15-48ac-881a-f98b3f8a6735",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "cc055609-f8f7-4190-a180-a0c3e6b724e0",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "031aa252-1cf0-4998-b8c7-1b0d275abbed",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "52966ce4-153a-443c-88d7-79540c8c3ad2",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a1d22f4e-4d54-4a97-9285-9e143e7d4328",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a4df9298-d418-43d4-b58e-42d1189445ba",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5825fbf5-3760-4cb7-8f59-2ebddd81de6b",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a4396151-c122-4906-afb5-d7ddd28fdb1d",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "44a6d1ee-d639-4427-997b-33d1f0768d43",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d8ea139f-d01c-4ab3-80a4-7a814f64357b",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "71fbd4bb-4d0e-425f-a68a-78ba0459e2d1",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9e1dad5d-005a-4e7d-ac12-882520d42761",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0b01fe60-4749-41dc-acad-b8cac474f8ce",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ff7fc752-5a5f-491e-87cf-a319c60bfaad",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a3b00a42-0715-42a0-a5fc-20ef8cdf13a3",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "226755b2-7953-4198-935d-40d8e72dbcd4",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1266a4d1-cb83-405f-9903-08acf3bfe2fd",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b816c7b9-e714-475e-909d-733787625e09",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f6ca19a5-cf65-479d-a7d8-6623c6dc37e3",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0250a366-de31-49e0-9cba-c2e7cf1886ef",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9cc5dd91-523c-4c4b-8215-52561069710a",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "fa68eee0-396c-4729-8c8c-534d153241ee",
+            "firstName": "Александр",
+            "lastName": "Алексеев",
+            "dateOfBirth": "2020-01-01T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "efcef1d1-0c2d-487c-82eb-dbea7780b03f",
+                "name": "Мощный"
+            },
+            "firstTrainingDate": "10.11.2024",
+            "status": "Active",
+            "mother": {
+                "id": "8937fe23-5816-4721-94a9-7f79c57ed1b5",
+                "name": "Юлия Алексеева",
+                "phone": "89033740501",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "a0e50e8a-c422-4b86-89f8-02453e9a8ff5",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "10c69723-d611-4843-a243-882f8cc18edd",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2fe080bf-bb0c-4f50-b4aa-bbd299fcba9c",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2c031a2e-54c1-446a-80d7-39da357a52f2",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a6e76b12-e2da-43b0-bafd-b794abaafba8",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a91c1c51-ed6f-4c55-9554-fe4347af7d07",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9c06f872-617e-42c0-ac37-6420b4302891",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6205380e-2e7a-4e1b-a928-1e2b57dfbc0c",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c0f37fe1-00b5-4659-b8b3-124e5400397e",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "12d4f085-4197-45a4-8454-56d002370c5a",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "95f16d3f-7466-419a-b302-cb881eb9e392",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "613ba83e-9c4b-42d8-aaa6-f4defa11324c",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7f3de988-d11f-4408-b1a5-a83b15033531",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b0b3d38c-5737-44c4-b989-6d736b058970",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "bb9809f2-dc3b-460a-b95c-2856a9896900",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9b239106-0533-4ccf-8314-99222a86afb9",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "984870c1-f97b-45a3-a981-dbb3ef18e800",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0870cc9e-d73a-49e3-8293-e22b804a94f8",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7ebd0281-bbca-4caa-b1ab-d52d8f5e8772",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e170f2a2-20c0-41e8-ae8a-efa7a00673e4",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "8f63f5db-c0a6-424e-a25d-be0a72de7707",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "90418bc4-366c-4db7-92d7-487e3bff39bd",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "3f655fa8-037a-4185-ba42-7e39d9898d50",
+            "firstName": "Ярослав",
+            "lastName": null,
+            "dateOfBirth": "2017-01-01T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "88779d77-5b26-4603-8846-b236a472a7f3",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "10.11.2024",
+            "status": "Active",
+            "mother": {
+                "id": "c169a859-56f2-4e82-9bc5-97e3fbcfc37b",
+                "name": "Ольга Андреенко",
+                "phone": "89370808588",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "74bb42e5-9d11-46c2-8ec2-3ba96cf652ab",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "77915444-fadf-4896-9967-eb351edefb6f",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "476f4639-0ccf-4653-8bf5-f2c9470545a9",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "087894f1-6558-490f-81fa-ea5aa80df030",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "90bbfbed-a432-4da3-a9b4-603984c47da1",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0af773a4-60a9-419a-8a8d-dbe982e7b2c0",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9c3e49f8-c7d4-4238-bee8-14fe529ae861",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0eb73ae8-95c7-458e-86a9-083ee964198f",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5ac1ce71-73a3-4c9f-9172-b6908cc1996a",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6ff990b6-52ae-4d9f-bf7a-7d7d10ab60c1",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "58671640-a915-41ee-b69d-5e691070962e",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "fbf19db3-3567-4b22-843f-522011c3fff3",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ff5e9cc5-5985-4757-b315-ce2041bea5e8",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7b0f2795-1fd8-4400-be16-b72334e53a7e",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "04b146a3-de01-4b5e-abcf-f505022eb3df",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0499f329-bfed-47e8-999c-4397ddf5da99",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9ba8f304-9f66-40df-b855-ff28047ef004",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4c7fdee1-e5e4-43b0-90c4-b91b1d27d396",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1f105bc8-9d47-43c0-9505-905a6cce5de7",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a2bf03aa-bba7-41da-acc9-aa36a644ef27",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "4adf639f-253e-47d4-8a21-e9971ed983b2",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b663a5d6-a0e7-436f-a9e9-4313a7a71059",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "7e047096-14d2-4855-9143-972b2c4bbd55",
+            "firstName": "Ильяс",
+            "lastName": null,
+            "dateOfBirth": "2017-01-02T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "369eadc9-eb9a-4c50-aa25-a6274fc32e05",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "10.11.2024",
+            "status": "Active",
+            "mother": {
+                "id": "3faddde5-040d-4430-ac17-3259871a8158",
+                "name": "Наталья Дамер",
+                "phone": "89616850085",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "f822e275-93e7-4219-a8ba-d400b6ecac41",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "54329611-a049-4c89-aba0-736a2074ec7d",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2fc6c6f8-5acd-4a76-a198-2a7a2756f762",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1e126c23-5fc7-4eb9-91e6-93c8d15564c9",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "00e69a35-6c8b-491c-8a3d-4ac6793be4b5",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c5699da3-0f84-4dc2-a065-306e7c648abb",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "73226436-5cdc-41c2-92a8-3d11bb9a6090",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "faaeaec4-81a5-43f5-95a2-bfcab3fdc764",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "2d93919d-7113-45ce-aa6c-ac63bbb99097",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "bf82af51-313d-4ffe-9bf9-97e9b3d5e959",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3069fdfa-caae-4a75-8ec9-ff565015daf6",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c06ffe93-3907-4352-b17e-6d042b52f03a",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "41d61313-4b80-4131-943e-3c35a6add5de",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "284bd715-6187-4611-a4ad-c7cf5e76379c",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "18229d49-fce8-4663-807e-8fa94a6b224c",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3f9eca7d-1036-4aa5-89b2-c47c8d8c25a8",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "08c796c8-a15e-4cc5-9432-898f80ca661d",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "158ee5b9-efa8-4c52-9ff7-6817fb3bc2ee",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5753f73a-b295-49a3-883d-e51246bc8b1d",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d58dc2ad-1795-46e1-81f3-9abf8bcfddf3",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "18edc7e5-a80a-4a9e-9c2b-db0a93b10c54",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a2d017da-59dd-4c2f-88e1-0b897c71ff93",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "764facb2-e601-4a40-8378-f824edee1480",
+            "firstName": "Тимур",
+            "lastName": null,
+            "dateOfBirth": "2014-01-01T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "fa43c845-69d0-47b3-bc03-0395e713d427",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "17.11.2024",
+            "status": "Active",
+            "mother": {
+                "id": "6f9f8cb0-a9e5-4c73-b3e7-051737e09ccd",
+                "name": "Диана Шамайко",
+                "phone": "89608933515",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "43401ba4-4406-4769-bede-772c49515eb2",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "dfb9d5d7-02bf-4d11-b2d3-1bcb0ed7a189",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "21ccd5d5-fab7-4371-8dfc-3a77624f6e8a",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "915d1808-843e-4a21-9253-74d648f24fa5",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "846b902f-83dc-4ab6-8616-644ab9f520c2",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b8f82217-ea73-4242-b57b-0edebe20ed4e",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "08d60ca7-d035-4205-a076-63ea4832e57a",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0c503468-3323-4775-82da-8ec7adbd4138",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ef5bdd08-ba2f-4da8-adcb-2e519b0cf6ec",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1b9e247c-bbf3-442c-acca-51a88a4cdfce",
+                    "date": "3.11.2024",
+                    "month": 11,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f10c2dce-8871-42cc-8af4-4a6a55a138ff",
+                    "date": "10.11.2024",
+                    "month": 11,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "544cd11f-a3fa-4e00-9916-54c0005f6e06",
+                    "date": "17.11.2024",
+                    "month": 11,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3dbcae94-d51e-4cc5-a4bf-bf1897c370e6",
+                    "date": "24.11.2024",
+                    "month": 11,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "529c7b0a-505c-4689-aef3-91964ab34719",
+                    "date": "1.12.2024",
+                    "month": 12,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "6cc7e3ee-b7e5-4a6a-bba5-f3ee730e7430",
+                    "date": "8.12.2024",
+                    "month": 12,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0111283e-6779-4970-b86c-fb5df541a4ed",
+                    "date": "15.12.2024",
+                    "month": 12,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a51beec1-ab4d-48a9-8e03-457d629cac26",
+                    "date": "22.12.2024",
+                    "month": 12,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "8d0bd2ce-8d64-4242-8a3d-1f481e3c6880",
+                    "date": "29.12.2024",
+                    "month": 12,
+                    "number": 5,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "06647513-d565-4d7e-8e56-952fbcc45cd3",
+                    "date": "5.1.2025",
+                    "month": 1,
+                    "number": 1,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "8a7f0356-68a6-4713-a315-3adc3ba3e605",
+                    "date": "12.1.2025",
+                    "month": 1,
+                    "number": 2,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "140926fe-52a9-49ba-b1f4-e7e25f40ced4",
+                    "date": "19.1.2025",
+                    "month": 1,
+                    "number": 3,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "5efe6f52-2144-42d1-81f0-ee4b47bcc442",
+                    "date": "26.1.2025",
+                    "month": 1,
+                    "number": 4,
+                    "presence": "NotMarked",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "f3ec5b9a-c26d-410e-a246-88825ed5ada1",
+            "firstName": "Софья",
+            "lastName": "Киприна",
+            "dateOfBirth": "2013-01-01T00:00:00",
+            "sex": "Ж",
+            "project": null,
+            "level": {
+                "id": "aa4ebff6-91b5-480e-a2f2-a5def9d2b849",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "22.09.2024",
+            "status": "StandBy",
+            "mother": {
+                "id": "6c7c0946-1381-43be-9d0e-b8732e824f04",
+                "name": "Ирина Киприна",
+                "phone": "89880045058",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "87a022fd-33d2-4fcf-bee9-ad0565af1bc6",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "69e210ce-b265-4d56-981f-829c1f5c3ee4",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f62a4996-80db-46d4-9231-1798b79625d1",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f9661b61-15de-4bbf-824b-4c405aa07c76",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3e9889b8-4ea4-4136-8e95-c6128a15ffe5",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d4d14c4e-1c97-4098-8889-7d77033d8827",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3dfc795c-9391-4f09-9700-e9bebcd783ac",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "028c1239-e6d2-4966-9a44-014596af0d08",
+            "firstName": "Алла",
+            "lastName": null,
+            "dateOfBirth": "2015-11-08T00:00:00",
+            "sex": "Ж",
+            "project": null,
+            "level": {
+                "id": "53c98f26-6f05-4ae9-84ff-35005b3195fb",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "31.03.2024",
+            "status": "StandBy",
+            "mother": {
+                "id": "e9a25b82-d9c9-4bdb-9851-25fa24e6587c",
+                "name": "Ирина Сопова",
+                "phone": "89044129269",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "9d1b55c4-fce2-4fc4-aebd-e2ad8c6c615a",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ca90b0d7-9957-48e0-a662-d40e961a7238",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "32fb7406-453d-4668-98ca-26ba65f9a098",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "e3bfd198-71d5-4d0d-b75c-51cd332e0eb5",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c7609a37-8536-4fc0-b15e-93c6459a43bb",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a70278b8-fb0f-474b-953a-cfe2b057f660",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "db02cb4f-7041-4484-8255-96e18c6df63f",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "bf15292d-44eb-4c1e-8068-83516cbc62b8",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "b7b58bd8-6e0f-41de-a6ff-b9790c8afaaf",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "e6332901-82c6-4f2a-974e-7e39e0188e14",
+            "firstName": "Мария",
+            "lastName": null,
+            "dateOfBirth": "2017-09-10T00:00:00",
+            "sex": "Ж",
+            "project": null,
+            "level": {
+                "id": "6370ada5-e45a-4fca-bbbf-1f2b4e46f91e",
+                "name": "Новичок"
+            },
+            "firstTrainingDate": "31.03.2024",
+            "status": "StandBy",
+            "mother": {
+                "id": "9f9dcac9-808b-4174-903f-be115ca9a279",
+                "name": "Ирина Сопова",
+                "phone": "89044129269",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "9aa5aaeb-4812-44b4-998f-77c84207aba4",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "826e647f-bd9c-40dd-9ab4-463e5d46131b",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "9a515212-9819-485c-80f5-ef14a9d86b6f",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "d899ffdf-dab5-4fa7-b4b3-5937c575ce44",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3b4eab50-495f-4b67-b3d7-058772688e13",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "c6211010-6ab6-4245-b7ff-55344fe13056",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "7efd5458-0c31-45ec-b9b3-83fe1a8b3780",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "244c8bb6-de8f-4dda-880b-b4483f252f42",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "a07b0e99-eb0b-4d7b-800e-adf56c85f164",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        },
+        {
+            "id": "133b49ed-f983-4ba5-adbf-647acb575ee2",
+            "firstName": "Владимир",
+            "lastName": null,
+            "dateOfBirth": "2020-02-14T00:00:00",
+            "sex": "М",
+            "project": null,
+            "level": {
+                "id": "35dfbdd2-52ee-4b19-b8c2-84a95baaf4b2",
+                "name": "Мощный"
+            },
+            "firstTrainingDate": "31.03.2024",
+            "status": "StandBy",
+            "mother": {
+                "id": "60fa671c-3588-41e6-bcd2-6c8bc0bf4d5d",
+                "name": "Ирина Сопова",
+                "phone": "89044129269",
+                "comment": ""
+            },
+            "father": null,
+            "squad": null,
+            "trainings": [
+                {
+                    "id": "bcf3b1ee-e891-41a8-ac59-840c695f6145",
+                    "date": "1.9.2024",
+                    "month": 9,
+                    "number": 1,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "321851f0-fbe7-461d-b76b-5244edb64f88",
+                    "date": "8.9.2024",
+                    "month": 9,
+                    "number": 2,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "15df7baa-bdf2-4530-9e7f-409051ba198d",
+                    "date": "15.9.2024",
+                    "month": 9,
+                    "number": 3,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "1c4d1e86-6f24-4c4b-aba3-d1bb6eea9c32",
+                    "date": "22.9.2024",
+                    "month": 9,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "f3a647c7-ed6d-432f-856d-29bcd7698a1f",
+                    "date": "29.9.2024",
+                    "month": 9,
+                    "number": 5,
+                    "presence": "Present",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "ba33488c-e382-4b87-ba90-889aae26f6dd",
+                    "date": "6.10.2024",
+                    "month": 10,
+                    "number": 1,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "94f1fef4-b8c5-4753-81f9-61fc2b3a389d",
+                    "date": "13.10.2024",
+                    "month": 10,
+                    "number": 2,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "0ee56f10-0d83-44ae-aa3c-260b3691b3d5",
+                    "date": "20.10.2024",
+                    "month": 10,
+                    "number": 3,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                },
+                {
+                    "id": "3133000f-05a1-4b53-8fe7-682249d36061",
+                    "date": "27.10.2024",
+                    "month": 10,
+                    "number": 4,
+                    "presence": "Absent",
+                    "comment": null,
+                    "disciple": null
+                }
+            ]
+        }
+    ]
+}

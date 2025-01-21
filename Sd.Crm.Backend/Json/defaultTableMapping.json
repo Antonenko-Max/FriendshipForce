@@ -1,0 +1,18 @@
+{
+    "discipleListStartsFrom": 4,
+    "trainingsStartsFrom": 19,
+    "startingYear": 2024,
+    "columnMapping": {
+        "name": 1,
+        "dateOfBirth": 4,
+        "sex": 5,
+        "level": 7,
+        "firstTrainingDate": 8,
+        "motherName": 12,
+        "motherPhone": 13,
+        "motherComment": 14,
+        "fatherName": 15,
+        "fatherPhone": 16,
+        "fatherComment": 17
+     }
+}
